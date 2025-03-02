@@ -1,3 +1,7 @@
+## 0.1.1
+
+Updated pubspec.yaml
+
 ## 0.1.0
 
 Initial release of the Flutter H3 plugin with the following features:
