@@ -1,9 +1,9 @@
 name: flutter_h3
 description: A Flutter plugin that provides an FFI interface to Uber's H3 geospatial indexing system. Supports polygon-to-cell conversion, geolocation indexing and more.
 version: 0.1.0
-repository: https://github.com/yourusername/flutter_h3
-issue_tracker: https://github.com/yourusername/flutter_h3/issues
-homepage: https://github.com/yourusername/flutter_h3
+repository: https://github.com/jackson2787/flutter_h3/flutter_h3
+issue_tracker: https://github.com/jackson2787/flutter_h3/issues
+homepage: hhttps://github.com/jackson2787/flutter_h3
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
